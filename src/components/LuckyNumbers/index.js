@@ -18,7 +18,7 @@ const LuckyNumbers = () => {
     }
     setLuckyNumbers(numbers);
   };
-
+  
   const resetNumbers = () => {
     setLuckyNumbers([]);
   };
